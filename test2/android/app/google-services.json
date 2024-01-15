@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612213389899",
+    "project_id": "crypto-be2aa",
+    "storage_bucket": "crypto-be2aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612213389899:android:7983f8f182e2853feeabce",
+        "android_client_info": {
+          "package_name": "com.example.test2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJjcjCO9eEhAaXXMwV7YQneGoPqGoJWEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
